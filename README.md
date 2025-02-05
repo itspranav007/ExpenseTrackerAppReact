@@ -27,7 +27,7 @@
   <div class="tech-stack">
     <div><span class="icon">⚛️</span><strong>React Native:</strong> The primary framework for building this mobile app.</div>
     <div><span class="icon">📦</span><strong>Expo SDK:</strong> Used for a streamlined development and deployment process.</div>
-    <div><span class="icon">🔐</span><strong>Firebase Authentication:</strong> For secure login and user management.</div>
+   
   </div>
 
   <h2>⚡ Installation</h2>
