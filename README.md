@@ -47,7 +47,7 @@
   <p>For any queries, you can reach out to me via:</p>
   <ul>
     <li><span class="icon">📧</span>Email: <a href="mailto:pranavbhosalebhosale@gmail.com">pranavbhosalebhosale@gmail.com</a></li>
-    <li><span class="icon">📱</span>Instagram: <a href="https://instagram.com/code_crunch_00">@code_crunch_00</a></li>
+    <li><span class="icon">📱</span>LinkedIn: <a href="www.linkedin.com/in/iampranavbhosale">iampranavbhosale</a></li>
   </ul>
 
 </body>
