@@ -43,12 +43,15 @@
   <h2>🎯 Contributing</h2>
   <p>Feel free to fork this project, create a branch, and make a pull request with any improvements or new features. Contributions are always welcome!</p>
 
-  <h2>📞 Contact</h2>
-  <p>For any queries, you can reach out to me via:</p>
-  <ul>
-    <li><span class="icon">📧</span>Email: <a href="mailto:pranavbhosalebhosale@gmail.com">pranavbhosalebhosale@gmail.com</a></li>
-    <li><span class="icon">📱</span>LinkedIn: <a href="https://www.linkedin.com/in/iampranavbhosale">iampranavbhosale</a></li>
-  </ul>
+<h2>📞 Contact</h2>
+<p>For any queries, you can reach out to me via:</p>
+<ul>
+  <li><span class="icon">📧</span>Email: <a href="mailto:pranavbhosalebhosale@gmail.com">pranavbhosalebhosale@gmail.com</a></li>
+  <li><span class="icon">📱</span>LinkedIn: <a href="https://www.linkedin.com/in/iampranavbhosale">iampranavbhosale</a></li>
+  <li><span class="icon">📝</span>Medium: <a href="https://medium.com/@Itspranav_developer">Itspranav_developer</a></li>
+  <li><span class="icon">🔗</span>LinkTree: <a href="https://linktr.ee/itspranav_developer">itspranav_developer</a></li>
+</ul>
+
 
 </body>
 </html>
