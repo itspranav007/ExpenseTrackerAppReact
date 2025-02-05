@@ -1,53 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Expense Tracker - React Native</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 20px;
-      background-color: #f4f4f9;
-      color: #333;
-    }
-    h1 {
-      font-size: 2.5rem;
-      color: #d32f2f;
-    }
-    h2 {
-      font-size: 2rem;
-      color: #e57373;
-    }
-    h3 {
-      font-size: 1.5rem;
-      color: #c62828;
-    }
-    ul {
-      list-style-type: none;
-      padding-left: 0;
-    }
-    li {
-      font-size: 1.2rem;
-      margin: 10px 0;
-    }
-    .icon {
-      margin-right: 10px;
-    }
-    .features {
-      margin-left: 20px;
-    }
-    .tech-stack div {
-      font-size: 1.2rem;
-      margin: 5px 0;
-    }
-    .tech-stack {
-      display: flex;
-      flex-direction: column;
-    }
-  </style>
-</head>
-<body>
 
   <h1>💸 <strong>Expense Tracker - React Native</strong></h1>
 
@@ -89,11 +39,6 @@
     <li>Run the app: <code>expo start</code></li>
   </ul>
 
-  <h2>🎨 Screenshots</h2>
-  <p>Here’s a sneak peek of the app:</p>
-  <img src="splash-screen.png" alt="Splash Screen" style="width:100%; max-width: 600px;">
-  <img src="login-screen.png" alt="Login Screen" style="width:100%; max-width: 600px;">
-  <img src="expense-list.png" alt="Expense List" style="width:100%; max-width: 600px;">
 
   <h2>🎯 Contributing</h2>
   <p>Feel free to fork this project, create a branch, and make a pull request with any improvements or new features. Contributions are always welcome!</p>
